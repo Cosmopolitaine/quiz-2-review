@@ -1,0 +1,15 @@
+#####
+#### BASH Notes
+###
+
+Environment Variable: ENV_VAR="variable value"
+    An environment variable is a variable that can affect the way running processes will behave.
+    They are part of the environment in which a process runs.
+
+PATH Environment Variable
+    PATH is an environment variable on Unix-like operating systems, DOS, OS/2, 
+    and Microsoft Windows, specifying a set of directories where executable programs 
+    are located. 
+
+Bash
+    Bash is a shell ans is the command line interpreter for many Linux derived operating systems. 

@@ -1,7 +1,9 @@
 #!/bin/bash
-counter = 1
-for i in {1..$1}
+counter=$1
+num=1
+while [ $counter -gt 1 ];
 do
-    counter = $((counter*i))
+    $num = $(( counter*num ))
+    counter --
 done
-return counter
+echo $num
