@@ -1,0 +1,17 @@
+bg
+  Used for controlling the foreground/background running of processes.
+
+cat
+  Used for printing and concatenating file streams.
+
+  Example: cat /etc/hosts
+
+cd
+  A shell built-in program used for changing the working directory. 
+
+  Example: cd ../../home/ubuntu
+
+chmod
+  Used for changing the file modes (permissions) on files.
+
+  Example: chmod 0600 authorized_keys
