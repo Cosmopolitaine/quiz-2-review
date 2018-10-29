@@ -15,3 +15,86 @@ chmod
   Used for changing the file modes (permissions) on files.
 
   Example: chmod 0600 authorized_keys
+
+curl
+  Used for transferring (upload, download) data to or from a server. 
+
+  Example: curl google.com
+
+echo
+  Used for print output to the standard out (stdout) file stream. 
+
+  Example: echo "Hello! World!"
+
+env
+  Used for printing and controlling the environment in which a program runs. 
+
+exit
+  A shell built-in program used for exiting the current shell
+
+find
+  A tool for searching for files/folders based on a filter condition. 
+
+git
+  A distributed version control system program.
+
+grep
+  Used for pattern matching and searching of files.
+
+history
+  A shell built-in program used for viewing the history of executed commands. 
+
+kill
+  Used for stopping or terminating current processes.
+
+  Example: kill 1932
+
+less
+  Used for viewing the contents of a file. 
+
+ls
+  Used for listing the contents of a directory. 
+
+man
+  A program for viewing the manual for a given command. 
+
+mkdir
+  Used for creating directories in a file system. 
+
+nano, vim
+  Both are command line based text editors.
+
+pip
+  Used for installing packages into the activated Python environment.
+
+  Example: pip install catzzz
+
+ps
+  Used for monitoring the status of running processes. 
+
+psql
+  Used for opening a Postgresql client terminal for communication with a Postgres server.
+
+pwd
+  Used for determining the current working directory. 
+
+rm 
+  Used for removing files and directories.
+
+sleep
+  Used to suspend execution of a running process. 
+
+ssh-keygen
+  Used for creating public/private key pairs.
+
+sudo 
+  Used for excuting a command as the superuser or another user. 
+
+touch 
+  Used for creating files and modifying their access/modification times. 
+
+wget
+  Used for downloading data over the network.
+
+which
+  Used for locating a file or executable in the user's PATH.
