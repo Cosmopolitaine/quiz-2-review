@@ -1,0 +1,8 @@
+#!/bin/bash
+num=$1
+fac=1
+for i in $( seq $num )
+do
+    fac=$(( fac*i ))
+done
+echo $fac
